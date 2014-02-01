@@ -1,0 +1,9 @@
+{
+	"name": "hotkey",
+	"version": "0.0.1",
+  	"author": "Mike Vegeto <michael.vegeto@gmail.com> (http://mikevegeto.com/)",
+  	"main": "./hotkey",
+	"engines": {
+    	"node": ">=0.8.0"
+  	}
+}
